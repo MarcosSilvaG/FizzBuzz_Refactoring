@@ -19,6 +19,6 @@ describe("Tests for FizBuzz class", () => {
     test("4) Test for users who are divisible by 3 and 5", () => {
         const explorer15 = {name: "Explorer15", score: 15}
         const explorerFizzBuzz = FizzBuzzService.applyValidationInExplorer(explorer15)
-        expect(explorerFizzBuzz.trick).toBe("FIZZBUZ")
+        expect(explorerFizzBuzz.trick).toBe("FIZZBUZZ")
     })
 })
