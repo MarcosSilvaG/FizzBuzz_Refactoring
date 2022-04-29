@@ -1,7 +1,7 @@
 [
     {
-        "name": "Woopa1",
-        "githubUsername": "ajolonauta1",
+        "name": "Mingo",
+        "githubUsername": "Axolote",
         "score": 1,
         "mission": "node",
         "stacks": [
@@ -11,13 +11,170 @@
         ]
     },
     {
-        "name": "Woopa2",
-        "githubUsername": "ajolonauta2",
+        "name": "Caldera",
+        "githubUsername": "Marciano",
         "score": 2,
         "mission": "node",
         "stacks": [
             "javascript",
             "groovy",
+            "elm"
+        ]
+    },
+    {
+        "name": "rafael",
+        "githubUsername": "Mentoran",
+        "score": 2,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "groovy",
+            "elm"
+        ]
+    }, {
+        "name": "Thomas",
+        "githubUsername": "thomas2",
+        "score": 3,
+        "mission": "node",
+        "stacks": [
+            "elixir",
+            "groovy",
+            "reasonML"
+        ]
+    },
+    {
+        "name": "Joan",
+        "githubUsername": "naoj",
+        "mission": "node",
+        "score": 4,
+        "stacks": [
+            "javascript"
+        ]
+    },
+    {
+        "name": "Harolf",
+        "githubUsername": "fermin",
+        "score": 5,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "elm"
+        ]
+    },
+    {
+        "name": "Curtis",
+        "githubUsername": "ragnarog",
+        "score": 6,
+        "mission": "java",
+        "stacks": [
+            "elm"
+        ]
+    },
+    {
+        "name": "Ray",
+        "githubUsername": "babin",
+        "mission": "java",
+        "score": 7,
+        "stacks": []
+    },
+    {
+        "name": "Ruth",
+        "githubUsername": "porolon",
+        "score": 8,
+        "mission": "java",
+        "stacks": [
+            "elm"
+        ]
+    },
+    {
+        "name": "Tara",
+        "githubUsername": "morefield",
+        "score": 9,
+        "mission": "java",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Frank",
+        "githubUsername": "Beld",
+        "score": 10,
+        "mission": "java",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Evangeline",
+        "githubUsername": "mueller",
+        "score": 11,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Louse",
+        "githubUsername": "forther",
+        "score": 12,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Francine",
+        "githubUsername": "scooler",
+        "score": 13,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Sandy",
+        "githubUsername": "somerville",
+        "score": 14,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
+            "elm"
+        ]
+    },
+    {
+        "name": "Santa",
+        "githubUsername": "mcginnis",
+        "score": 15,
+        "mission": "node",
+        "stacks": [
+            "javascript",
+            "elixir",
+            "groovy",
+            "reasonML",
             "elm"
         ]
     }
