@@ -2,7 +2,7 @@
     {
         "name": "Mingo",
         "githubUsername": "Axolote",
-        "score": 1,
+        "score": 0,
         "mission": "node",
         "stacks": [
             "javascript",
@@ -13,7 +13,7 @@
     {
         "name": "Caldera",
         "githubUsername": "Marciano",
-        "score": 2,
+        "score": 1,
         "mission": "node",
         "stacks": [
             "javascript",
