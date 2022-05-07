@@ -1,6 +1,12 @@
 # EJERCICIO DE REFACTORIZACIÓN Y CREACIÓN DE API PARA LAUNCHX MISIÓN BACKEND
 
+## BOT TELEGRAM
+
+Para poder utilizar el bot de telegram con este proyecto se debe crear un archivo `.env` y colocar dentro su token proporsionado por **BotFather** en telegram.
+
 ## FUNCIONALIDADES
+
+---
 
 ### Documentación de la API
 
